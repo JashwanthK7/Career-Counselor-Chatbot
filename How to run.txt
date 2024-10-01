@@ -1,0 +1,19 @@
+1. Ensure the following libraries are installed
+  pip install tensorflow
+  pip install bokeh
+  pip install numpy
+  pip install pandas
+  pip install streamlit
+  pip install joblib
+  pip install pathlib
+  pip install nltk
+
+2. Enter the directory
+
+3. Run the python setup
+  python setup.py
+
+4. Run the application
+  streamlit run app.py
+
+5. To stop the application, click on CTRL+C in the terminal.
