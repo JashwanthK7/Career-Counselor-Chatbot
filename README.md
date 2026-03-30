@@ -15,8 +15,7 @@ The system utilizes a structured workflow:
 2. **NLP Processing**: The input is tokenized and processed using NLTK and TF IDF vectorization.
 3. **Data Retrieval**: The processed keywords are matched against the dataset.
 4. **Response Generation**: The bot returns the most relevant statement or triggers the Personality Test flow.
-
-![System Architecture Workflow]<img width="1004" height="700" alt="image" src="https://github.com/user-attachments/assets/1e9db2de-4334-4e48-b18d-f739e524cd9a" />
+<img width="1004" height="700" alt="image" src="https://github.com/user-attachments/assets/1e9db2de-4334-4e48-b18d-f739e524cd9a" />
 
 ## Technologies Used
 * **Programming Language**: Python
@@ -44,14 +43,13 @@ Follow these steps to run the chatbot locally:
 
 ### Chatbot Interface
 The initial interface greets the user and allows them to ask general career questions.
-![Chatbot Greeting Banner]<img width="602" height="561" alt="image" src="https://github.com/user-attachments/assets/fc7374f8-88f0-4503-9aeb-0a6ba9e13168" />
+<img width="602" height="561" alt="image" src="https://github.com/user-attachments/assets/fc7374f8-88f0-4503-9aeb-0a6ba9e13168" />
 
 ### Personality Test
 Users can type **start my test** to initiate the assessment. The bot asks for the user education level and presents a series of interactive questions.
-![Personality Test Questionnaire]<img width="892" height="443" alt="image" src="https://github.com/user-attachments/assets/56260bb4-7028-4d66-9a25-4d2d0c9507dc" />
-![Personality Test Questionnaire]<img width="1004" height="1048" alt="image" src="https://github.com/user-attachments/assets/70f14de1-7c5c-4e4e-b3b7-239e7fcc41c6" />
+<img width="892" height="443" alt="image" src="https://github.com/user-attachments/assets/56260bb4-7028-4d66-9a25-4d2d0c9507dc" />
+<img width="1004" height="1048" alt="image" src="https://github.com/user-attachments/assets/70f14de1-7c5c-4e4e-b3b7-239e7fcc41c6" />
 
 ### Results and Visualization
 After completing the test, the application renders a pie chart using the Bokeh library to visualize the top recommended professions along with detailed descriptions for each.
-![Results Visualization](<img width="808" height="693" alt="image" src="https://github.com/user-attachments/assets/519bdf64-69f4-4afc-b10d-45bd4ca6d912" />
-)
+<img width="808" height="693" alt="image" src="https://github.com/user-attachments/assets/519bdf64-69f4-4afc-b10d-45bd4ca6d912" />
