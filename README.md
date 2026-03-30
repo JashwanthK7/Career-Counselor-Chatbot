@@ -56,5 +56,5 @@ Users can type **start my test** to initiate the assessment. The bot asks for th
 
 ### Results and Visualization
 After completing the test, the application renders a pie chart using the Bokeh library to visualize the top recommended professions along with detailed descriptions for each.
-![Results Visualization](<img width="808" height="693" alt="image" src="https://github.com/user-attachments/assets/a45042c1-a798-4e08-bf3d-0c9fc4bd637f" />
+![Results Visualization](<img width="808" height="693" alt="image" src="https://github.com/user-attachments/assets/519bdf64-69f4-4afc-b10d-45bd4ca6d912" />
 )
