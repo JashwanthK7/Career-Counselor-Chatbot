@@ -16,8 +16,7 @@ The system utilizes a structured workflow:
 3. **Data Retrieval**: The processed keywords are matched against the dataset.
 4. **Response Generation**: The bot returns the most relevant statement or triggers the Personality Test flow.
 
-![System Architecture Workflow](<img width="1004" height="700" alt="image" src="https://github.com/user-attachments/assets/1e9db2de-4334-4e48-b18d-f739e524cd9a" />
-)
+![System Architecture Workflow](<img width="1004" height="700" alt="image" src="https://github.com/user-attachments/assets/1e9db2de-4334-4e48-b18d-f739e524cd9a" />)
 
 ## Technologies Used
 * **Programming Language**: Python
